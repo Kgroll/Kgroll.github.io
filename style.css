@@ -14,7 +14,7 @@ header {
     
 header h1 {
     font-weight: bold;
-    font-size: 36px;
+    font-size: 40px;
     margin: 0;
     display: inline;
 }
@@ -23,7 +23,5 @@ header h1 {
  float: left;
 }
 #bio-image {
-    width: 200px;
-    height: 200px;
-    margin-right: 20px;
+    width: 100%;
 }
